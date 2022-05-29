@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fran_martinv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fran_martinv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/francisco martín villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco martín villegas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francisco-mart%C3%ADn-villegas-655183211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco martín villegas" height="30" width="40" /></a>
 <a href="https://instagram.com/fran_martinv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran_martinv" height="30" width="40" /></a>
 </p>
 
