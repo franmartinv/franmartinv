@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">Embedded Software Developer. Electronic Industry and Automatic Engineer from Almería (Spain).</h3>
 
-- 🔭 I’m currently working on [Final Degree Project](https://github.com/franmartinv/TFG-Embedded-Develop)
+- 🔭 I’m currently working on [Final Master's Degree Project] - Robotic layout implementation with multiple PLC and AI system programmed in Python
 
 - 🌱 I’m currently learning **embedded C and python**
 
